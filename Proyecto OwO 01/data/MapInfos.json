@@ -1,4 +1,7 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":1769.4545454545455,"scrollY":1350.5454545454545}
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":5203.2,"scrollY":2928},
+{"id":2,"expanded":true,"name":"MAP002","order":2,"parentId":1,"scrollX":5913.599999999999,"scrollY":3820.7999999999997},
+{"id":3,"expanded":true,"name":"MAP003","order":3,"parentId":2,"scrollX":460,"scrollY":426},
+{"id":4,"expanded":false,"name":"Ciudad forestal","order":4,"parentId":3,"scrollX":1531.6363636363637,"scrollY":1020.3636363636364}
 ]
